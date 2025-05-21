@@ -22,7 +22,6 @@ Welcome to the Skill Sharing Platform, a web application that connects people wh
 - **Backend**: Spring Boot, Java
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: Docker (optional)
 
 ## 🚀 Getting Started
 
