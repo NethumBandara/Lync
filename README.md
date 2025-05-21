@@ -29,7 +29,7 @@ Welcome to the Skill Sharing Platform, a web application that connects people wh
 - Node.js (v14 or higher)
 - Java JDK (v11 or higher)
 - MongoDB (v4.4 or higher)
-- Yarn or npm
+- npm
 
 ### Installation
 
