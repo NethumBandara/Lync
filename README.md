@@ -3,6 +3,13 @@
 ## 🌟 Overview
 Welcome to the Skill Sharing Platform, a web application that connects people who want to learn new skills with those who can teach them! This platform is built with React for the frontend and Spring Boot for the backend, using MongoDB as our database.
 
+![image](https://github.com/user-attachments/assets/c6133a34-55fb-4be6-b17f-b441ebe3b70e)
+
+![image](https://github.com/user-attachments/assets/0a851918-1e2a-4933-bcab-60d33a242267)
+
+![image](https://github.com/user-attachments/assets/9b467e5e-4c19-4d1d-a747-fbe0762e4b15)
+
+
 ## ✨ Features
 - **User Profiles**: Create and customize your profile
 - **Skill Listings**: Browse and search for skills to learn or offer to teach
@@ -31,15 +38,11 @@ Welcome to the Skill Sharing Platform, a web application that connects people wh
 1. Navigate to the `frontend` folder
 2. Install dependencies:
    ```bash
-   yarn install
-   # or
    npm install
    ```
 3. Create a `.env` file based on `.env.example` and update with your configuration
 4. Start the development server:
    ```bash
-   yarn start
-   # or
    npm start
    ```
 
